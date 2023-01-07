@@ -2,9 +2,8 @@
 
 A basic program designed to display Hello World! onto the terminal. This porgram was designed to demonstrate how Visual Studio Code, GitHub, and python can be intagrated together. 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=rMAF7QywJXo)
 
 # Development Environment
 
